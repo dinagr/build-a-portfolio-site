@@ -1,0 +1,46 @@
+body {
+	font-family: "Lato", sans-serif;
+}
+
+container {
+	font-weight: 400;
+}
+
+a {
+	color: #747704;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-logo {
+	margin: 20px 0px 20px 0px;
+}
+
+.main-pic {
+	margin-top: 25px;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-big {
+	font-size: 35px;
+	margin-left: 20px;
+}
+
+.title-normal {
+	font-size: 30px; 
+}
+
+.page-title {
+	border-bottom: 4px solid #bcbbbb;
+	line-height: 0;
+	padding: 0;
+}
